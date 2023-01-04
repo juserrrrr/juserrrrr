@@ -5,9 +5,9 @@
 - 👯 I’m looking to collaborate on FrontEnd Dev
 - 📫 How to reach me: jgapontes@ecomp.uefs.br
 <div align="center">
-  <a href="https://github.com/juserrrrr">
+<!--   <a href="https://github.com/juserrrrr">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juserrrrr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juserrrrr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juserrrrr&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
   
 ### Technologies
