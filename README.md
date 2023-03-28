@@ -1,7 +1,7 @@
 ### Hello word! I'm José Gabriel 👋
 
 - 🔭 I’m currently working on extension project by [UEFS](https://www.uefs.br/)
-- 🌱 I’m currently learning React, TypeScript and Java
+- 🌱 I’m currently learning React and NestJs using typescript
 - 👯 I’m looking to collaborate on FrontEnd Dev
 - 📫 How to reach me: jgapontes@ecomp.uefs.br
 <div align="center">
