@@ -1,14 +1,16 @@
-<h1 align="center">Hello World! I'm José Gabriel 👋</h1>
+# <p align="center">Hello World! I'm José Gabriel 👋</p>
 
 <p align="center">
-  🚀 <b>Junior Full Stack Developer</b> specializing in <b>Ruby on Rails</b>
+  👨‍💻 <b>Junior Full Stack Developer</b> @ <b>Ruby on Rails</b> ecosystem
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/josegabrielpontes/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/josegabrielpontes/">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/juserrrrr">
@@ -17,26 +19,72 @@
   </a>
 </div>
 
-<h3 align="center">Technologies</h3>
+<br>
 
-<div align="center">
-  <img align="center" alt="Jose-Ruby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Jose-Rails" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
-  <img align="center" alt="Jose-Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Jose-Sidekiq" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/sidekiq-icon.svg">
-  
-  <br><br>
+### 🛠️ Tech Stack
 
-  <img align="center" alt="Jose-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jose-Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jose-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="jose-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Jose-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  
-  <br><br>
-  
-  <img align="center" alt="Jose-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Jose-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Jose-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Jose-C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-</div>
+<table align="center">
+  <tr>
+    <td align="center" colspan="4"><b>Backend & Database</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby" />
+      <br>Ruby
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="40" height="40" alt="Rails" />
+      <br>Rails
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Postgres" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.worldvectorlogo.com/logos/sidekiq-icon.svg" width="40" height="40" alt="Sidekiq" />
+      <br>Sidekiq
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4"><b>Frontend</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
+      <br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
+      <br>CSS3
+    </td>
+  </tr>
+    <tr>
+    <td align="center" colspan="4"><b>Other Languages</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+      <br>C++
+    </td>
+  </tr>
+</table>
