@@ -20,23 +20,26 @@
 
 <h3 align="center">📊 GitHub Activity</h3>
 
+<!-- Estatísticas gerais -->
 <div align="center">
   <a href="https://github.com/juserrrrr">
     <img
-      width="95%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=juserrrrr&theme=dracula&bg_color=00000000&hide_border=true&area=true&radius=8"
-      alt="Gráfico de contribuições de Gabriel Almeida"
+      height="190"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juserrrrr&theme=transparent&animation=load&duration=2"
+      alt="Estatísticas do GitHub de Gabriel Almeida"
     />
   </a>
 </div>
 
 <br>
+
+<!-- Gráfico de contribuições -->
 <div align="center">
   <a href="https://github.com/juserrrrr">
     <img
       width="95%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=juserrrrr&theme=dracula&hide_border=true&area=true&radius=8"
-      alt="Gráfico de atividade do Gabriel"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=juserrrrr&bg_color=00000000&color=FFFFFF&title_color=FFFFFF&line=FF79C6&point=BD93F9&area_color=FF79C6&area=true&hide_border=true&radius=8&custom_title=Gabriel%20Almeida%27s%20Contribution%20Graph"
+      alt="Gráfico de contribuições de Gabriel Almeida"
     />
   </a>
 </div>
