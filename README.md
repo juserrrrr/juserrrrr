@@ -23,8 +23,9 @@
 <div align="center">
   <a href="https://github.com/juserrrrr">
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juserrrrr&theme=dracula"
-      alt="Estatísticas do GitHub de Gabriel Almeida"
+      width="95%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=juserrrrr&theme=dracula&bg_color=00000000&hide_border=true&area=true&radius=8"
+      alt="Gráfico de contribuições de Gabriel Almeida"
     />
   </a>
 </div>
