@@ -23,14 +23,13 @@
 <div align="center">
   <a href="https://github.com/juserrrrr">
     <img
-      src="https://streak-stats.demolab.com?user=juserrrrr&theme=dracula&hide_border=true&locale=pt_BR"
-      alt="Sequência de contribuições do Gabriel"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juserrrrr&theme=dracula"
+      alt="Estatísticas do GitHub de Gabriel Almeida"
     />
   </a>
 </div>
 
 <br>
-
 <div align="center">
   <a href="https://github.com/juserrrrr">
     <img
